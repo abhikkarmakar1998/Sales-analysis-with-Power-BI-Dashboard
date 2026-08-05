@@ -5,7 +5,7 @@ This project analyzes company-wide sales performance using **Power BI**. The das
 
 ## Dashboard Preview
 
-![Power BI Dashboard](dashboard.png)
+![Power BI Dashboard]([dashboard.png](https://github.com/abhikkarmakar1998/Sales-analysis-with-Power-BI-Dashboard/blob/8dfca82dd385d638a67c2420755e9d337d850ea1/Dashboard.png))
 
 ## Key KPIs
 - **Total Sales:** ₹19.81 Million
